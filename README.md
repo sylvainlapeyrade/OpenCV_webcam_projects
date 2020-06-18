@@ -1,4 +1,4 @@
-# OpenCV_wecam_projects
+# OpenCV_webcam_projects
 Small projects using OpenCV with python and a Webcam
 
 ## Motivation
