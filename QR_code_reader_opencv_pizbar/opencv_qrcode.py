@@ -6,8 +6,8 @@ video_capture = cv2.VideoCapture(0)
 hasFrame, frame = video_capture.read()
 
 # Record the test
-# vid_writer = cv2.VideoWriter('output.avi', cv2.VideoWriter_fourcc(
-# 'M', 'J', 'P', 'G'), 10, (frame.shape[1], frame.shape[0]))
+# vid_writer = cv2.VideoWriter('./demo/demo.avi', cv2.VideoWriter_fourcc(
+#     'M', 'J', 'P', 'G'), 10, (frame.shape[1], frame.shape[0]))
 
 
 # Display barcode and QR code location
