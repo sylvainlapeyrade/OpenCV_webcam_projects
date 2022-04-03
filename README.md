@@ -1,5 +1,5 @@
 # OpenCV_webcam_projects
-Small projects using OpenCV with python and a Webcam
+Small project using OpenCV with python and a Webcam
 
 ## Motivation
 This repository aims to improve my computer vision skills with projects using the webcam (e.g. object recognition with a webcam).
