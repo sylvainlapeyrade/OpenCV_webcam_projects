@@ -1,5 +1,5 @@
 # OpenCV_webcam_projects
-Small project using OpenCV with python and a Webcam
+Small project using OpenCV with python and a webcam to read QR codes.
 
 ## Motivation
 This repository aims to improve my computer vision skills with projects using the webcam (e.g. object recognition with a webcam).
